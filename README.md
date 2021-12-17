@@ -44,4 +44,4 @@ Transcript.json
 - Only knearest neighbour classifier have not scored 100% accuracy. 
 - The company should send more offers to females as they have completed more offers than males. 
 - The company should target more average income customers and those between 41 and 60 years old. 
-- Customers prefer BOGO offer types than discount offer types. 
+- Customers prefer BOGO than discount offer types. 
