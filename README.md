@@ -4,7 +4,7 @@ This is a caspstone project offered by Udacity. This project uses data provided 
 
 # Datasets
 
-**Portfolio.json **
+Portfolio.json 
 
 - id - offer id 
 - offer_type - type of offer ie BOGO, discount, informational 
@@ -13,7 +13,7 @@ This is a caspstone project offered by Udacity. This project uses data provided 
 - duration - time for offer to be open, in days
 - channels 
 
-**Profile.json **
+Profile.json 
 
 - age - age of the customer
 - became_member_on - date when customer created an app account
@@ -21,7 +21,7 @@ This is a caspstone project offered by Udacity. This project uses data provided 
 - id - customer id
 - income - customer's income
 
-**Transcript.json **
+Transcript.json
 
 - event - record description (ie transaction, offer received, offer viewed, offer completed)
 - person - customer id
